@@ -1,4 +1,4 @@
-# jedoxcloudconsole
+# Jedox Cloud Console
 Jedox Cloud Console Reflected XSS
 
 Description:
